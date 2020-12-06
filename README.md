@@ -4,7 +4,7 @@
 
 ## In this repository:
 
-1. ADM_HW3_main.ipynb = Jupyter notebook containing the code for the third homework.
+ADM_HW3_main.ipynb = Jupyter notebook containing the code for the third homework.
 
 As a dataset we used the .tsv files created by parsing the first 300 pages of books, as required by the specifications of the homework.  <br>
 
