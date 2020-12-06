@@ -1,6 +1,9 @@
 # ADM-HW3-Group17
 
-* Group 17 is formed by Lorenzo Petroni and Francesca Casarano
+* Group 17 is formed by:
+
+- Lorenzo Petroni 1607049
+- Francesca Casarano 1606227
 
 ## In this repository:
 
